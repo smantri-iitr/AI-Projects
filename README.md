@@ -41,21 +41,32 @@ Neural network implementations and deep learning models across different domains
 - **🖼️ AlexNet from Scratch** - Complete implementation of the groundbreaking AlexNet architecture
 
 #### **Natural Language Processing**
-- *Projects coming soon...*
+- **🎭 LSTM Text Generation** - Character-level text generation using LSTM neural networks with temperature sampling and training visualization
 
 ### 📊 Machine Learning
 Traditional machine learning algorithms and statistical learning implementations.
 
+#### **Regression**
+- **🚗 Car Price Prediction** - Comprehensive regression project with multiple ML algorithms (Linear, Ridge, Lasso, Random Forest, XGBoost), hyperparameter tuning, and evaluation metrics
+
+#### **Classification**
+- **🌺 Iris Classification** - Basic classification using machine learning algorithms
+
+#### **Clustering**
+- **🎬 Movie Recommender Systems** - KNN and Katz reward-based movie recommendation algorithms
+
+#### **Anomaly Detection**
 - *Projects coming soon...*
 
 ## 🛠️ Technologies & Frameworks
 
 - **AI Frameworks**: Agno, AutoGen, OpenAI GPT
-- **Deep Learning**: PyTorch, TensorFlow
-- **Machine Learning**: Scikit-learn, NumPy, Pandas
+- **Deep Learning**: PyTorch, TensorFlow, Keras
+- **Machine Learning**: Scikit-learn, NumPy, Pandas, XGBoost
 - **Web Interfaces**: Streamlit
 - **Data Sources**: DuckDuckGo, Yahoo Finance
 - **Model Fine-tuning**: QLoRA, LoRA
+- **NLP**: LSTM, Character-level generation, Tokenization
 
 ## 🚀 Getting Started
 
@@ -81,7 +92,7 @@ pip install openai duckduckgo-search yfinance agno streamlit
 pip install transformers torch accelerate bitsandbytes
 
 # For deep learning projects
-pip install torch torchvision numpy matplotlib
+pip install torch torchvision numpy matplotlib tensorflow
 ```
 
 3. **Set up API keys:**
@@ -99,6 +110,8 @@ pip install torch torchvision numpy matplotlib
 1. Dive into **Fine-tuning Using QLoRA** for advanced LLM techniques
 2. Study **Code Transformers from Scratch** for transformer architecture understanding
 3. Experiment with **AI Breakup Recovery Agent System** for complex multi-agent coordination
+4. Explore **LSTM Text Generation** for deep learning NLP fundamentals
+5. Practice **Car Price Prediction** for comprehensive ML regression techniques
 
 ### 🚀 Advanced Level
 1. Master **Multi-Agent News & Finance Team** for production-ready agent systems

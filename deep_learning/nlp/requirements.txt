@@ -1,0 +1,21 @@
+# 🧠 LSTM Text Generation - Dependencies
+# Deep Learning and NLP Libraries
+
+# Core Deep Learning
+tensorflow>=2.8.0
+numpy>=1.21.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Data Processing
+pandas>=1.3.0
+
+# Jupyter (optional, for interactive development)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Additional useful libraries
+plotly>=5.0.0  # Interactive plots
+scipy>=1.7.0   # Scientific computing
