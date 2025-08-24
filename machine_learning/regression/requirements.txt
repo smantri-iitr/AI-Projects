@@ -1,0 +1,22 @@
+# 🚗 Car Price Prediction - Dependencies
+# Machine Learning and Data Science Libraries
+
+# Core Data Science
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Advanced ML Models
+xgboost>=1.5.0
+
+# Jupyter (optional, for interactive development)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Additional useful libraries
+plotly>=5.0.0  # Interactive plots
+scipy>=1.7.0   # Scientific computing
