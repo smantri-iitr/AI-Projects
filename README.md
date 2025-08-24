@@ -10,6 +10,7 @@ AI-Projects/
 ├── deep_learning/       # Deep learning implementations and models
 ├── llm/                 # Large Language Model projects and experiments
 ├── machine_learning/    # Traditional ML algorithms and implementations
+├── time_series/         # Time series analysis and forecasting
 └── README.md           # This file
 ```
 
