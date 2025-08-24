@@ -1,0 +1,501 @@
+product_id,product_name,category,price,stock_quantity
+1,Meyer-Gilbert Ball,Toys,14.74,888
+2,Kerr-Robinson Snacks,Food,37.89,574
+3,Luna Perfume,Beauty,80.55,815
+4,"Hudson, Basketball",Sports,278.68,396
+5,"Diaz, Face Mask",Beauty,145.15,55
+6,Roman Speaker,Electronics,446.02,889
+7,"Romero, Brake Pad",Automotive,731.40,721
+8,Johnson-Mccall Yo-yo,Toys,56.93,617
+9,"Mayer, Curtains",Home & Garden,161.21,181
+10,"Wagner, Dress",Clothing,193.06,752
+11,"Thompson, Tea",Food,20.73,438
+12,Wright Helmet,Sports,86.63,164
+13,Andrews Blood Pressure Monitor,Health,11.07,477
+14,"Decker, Novel",Books,20.76,330
+15,Powell-Nolan Vitamins,Health,157.00,640
+16,"Miller, Blood Pressure Monitor",Health,103.20,586
+17,Ruiz-Morris Rice,Food,6.43,724
+18,Lynn-Perry Kite,Toys,25.90,188
+19,Hill-Ross Tea,Food,39.95,163
+20,Elliott Hair Dryer,Beauty,84.26,94
+21,"Bowers, Puzzle",Toys,88.92,679
+22,"Cline, Remote Car",Toys,39.28,223
+23,"Moreno, Eye Drops",Health,100.22,574
+24,"Gonzales, Smartphone",Electronics,1354.43,456
+25,Armstrong Blender,Home & Garden,460.93,249
+26,Jackson Camera,Electronics,793.68,815
+27,"Galloway, Sweater",Clothing,62.47,741
+28,Howell Basketball,Sports,274.29,841
+29,"Nunez, Kite",Toys,81.27,456
+30,Proctor-Perez Car Battery,Automotive,254.74,667
+31,Jordan-Johnson Plant,Home & Garden,266.67,970
+32,Molina-Rodriguez Dress,Clothing,194.75,791
+33,"Warren, Cereal",Food,3.34,67
+34,Riley-Leach Curtains,Home & Garden,435.18,434
+35,Gibbs-Reid Jacket,Clothing,114.48,719
+36,Warren Foundation,Beauty,114.06,157
+37,Lee-Grimes Keyboard,Electronics,1447.89,38
+38,"Rose, Jeans",Clothing,25.04,813
+39,Robinson Helmet,Sports,30.43,841
+40,Smith-Rogers Pillow,Home & Garden,215.66,461
+41,Cole Moisturizer,Beauty,52.93,398
+42,Luna Socks,Clothing,16.09,737
+43,"Miller, Protein Powder",Health,153.63,599
+44,"Robertson, Smartphone",Electronics,747.52,514
+45,Reyes-Anderson Shoes,Clothing,160.58,308
+46,Richards Protein Powder,Health,63.49,948
+47,Duncan-Washington GPS,Automotive,331.21,676
+48,Williams-Ramirez Keyboard,Electronics,354.83,225
+49,James-Parks Science,Books,65.77,869
+50,Preston-Roberts Pasta,Food,48.13,147
+51,Andrade Dumbbells,Sports,287.64,11
+52,Adams Cereal,Food,9.64,42
+53,"Gonzalez, Smartwatch",Electronics,1213.48,550
+54,Rios Tea,Food,17.32,766
+55,"Richardson, Puzzle",Toys,44.20,661
+56,Miller-Gilmore Chocolate,Food,10.56,226
+57,"Ruiz, Blood Pressure Monitor",Health,46.92,185
+58,"Lam, Vitamins",Health,171.76,954
+59,Smith Sauce,Food,33.30,74
+60,"Stephens, Football",Sports,82.70,202
+61,Pace Face Mask,Health,190.79,365
+62,Mills Biography,Books,17.00,634
+63,"Chase, Jacket",Clothing,73.79,461
+64,Reeves Yo-yo,Toys,67.65,710
+65,Bryant First Aid Kit,Health,117.45,373
+66,Mendoza-Brennan Stuffed Animal,Toys,21.02,320
+67,Larson-Cook Curtains,Home & Garden,361.86,656
+68,Gonzalez Nail Polish,Beauty,127.30,137
+69,"Wiggins, Ball",Toys,48.97,367
+70,Pearson-Carlson Bicycle,Sports,169.98,179
+71,Lane-Johnson Protein Powder,Health,169.94,879
+72,Martinez Travel Guide,Books,23.75,751
+73,"Taylor, Jeans",Clothing,180.04,869
+74,Conner Coffee,Food,41.19,592
+75,"Hartman, Razor",Beauty,38.21,37
+76,Carrillo-Peterson Pasta,Food,28.54,552
+77,Thompson-Barry Oil Filter,Automotive,308.51,228
+78,Davis-Jenkins Blood Pressure Monitor,Health,35.44,513
+79,"Mcclure, Tea",Food,21.65,514
+80,"Freeman, Headphones",Electronics,1703.56,825
+81,Byrd First Aid Kit,Health,153.87,143
+82,Klein Oil Filter,Automotive,163.84,971
+83,Shah First Aid Kit,Health,149.82,495
+84,Johnson-Young Action Figure,Toys,25.79,499
+85,"Harper, Table",Home & Garden,146.89,239
+86,Davis-Hall Headphones,Electronics,1059.88,810
+87,Farrell Stuffed Animal,Toys,49.62,465
+88,Stewart-Yates Laptop,Electronics,1962.15,331
+89,"Robinson, Socks",Clothing,132.21,280
+90,Hill-Mitchell Water Bottle,Sports,167.86,178
+91,Rogers Moisturizer,Beauty,59.87,669
+92,"Rice, Socks",Clothing,61.54,996
+93,"Blackwell, Microwave",Home & Garden,214.80,836
+94,"Stanton, Ball",Toys,80.30,908
+95,French Vitamins,Health,105.35,142
+96,"Foster, Oil Filter",Automotive,203.24,526
+97,Hicks Golf Club,Sports,53.57,161
+98,Salinas Yo-yo,Toys,73.14,121
+99,Ho Tool Set,Home & Garden,409.36,737
+100,"Nelson, Shorts",Clothing,139.92,490
+101,Ayers-Warren Blender,Home & Garden,97.40,853
+102,Craig-Miller Lipstick,Beauty,42.60,130
+103,"Cruz, Pain Relief",Health,40.61,644
+104,"Arroyo, Coffee",Food,44.87,150
+105,"Charles, Tablet",Electronics,553.61,184
+106,Fuller-Evans Spices,Food,31.17,577
+107,Hansen-West Speaker,Electronics,1897.15,221
+108,Rivera-Cruz Floor Mat,Automotive,794.40,888
+109,Schmidt-Collins Oil Filter,Automotive,195.01,420
+110,"Mccullough, First Aid Kit",Health,160.98,840
+111,Hernandez-Shelton Dictionary,Books,56.18,270
+112,Walters History,Books,74.56,610
+113,Thornton Protein Powder,Health,53.66,394
+114,"Peterson, Textbook",Books,11.16,535
+115,Caldwell Spices,Food,41.85,620
+116,Collins-Roberts Dress,Clothing,103.04,629
+117,Estrada Vitamins,Health,176.77,544
+118,Wolf-West Tea,Food,7.38,675
+119,Padilla-Navarro Dictionary,Books,47.75,1
+120,White Hair Dryer,Beauty,67.74,895
+121,Black Mouse,Electronics,886.46,960
+122,"Chang, GPS",Automotive,296.65,823
+123,Harrison-Cooley Protein Powder,Health,90.84,260
+124,Yoder Brake Pad,Automotive,730.32,85
+125,Tran Water Bottle,Sports,264.26,418
+126,"Bright, Golf Club",Sports,11.59,761
+127,Smith-Hansen Smartwatch,Electronics,1068.95,532
+128,"Kennedy, Monitor",Electronics,1326.36,704
+129,"Brooks, Stuffed Animal",Toys,39.42,158
+130,"Morales, Razor",Beauty,44.02,875
+131,Underwood-Jones Spices,Food,29.54,626
+132,Wilson Running Shoes,Sports,228.94,423
+133,Dominguez Cereal,Food,25.68,379
+134,"Johnson, Cereal",Food,25.74,314
+135,Warren-Roth Massage Oil,Health,157.10,407
+136,"Davis, Textbook",Books,62.35,457
+137,Alexander Textbook,Books,25.01,410
+138,Castro Kite,Toys,63.33,700
+139,Dorsey Tablet,Electronics,808.75,651
+140,Carpenter Smartphone,Electronics,1655.35,482
+141,"Powers, Hand Sanitizer",Health,26.75,269
+142,Love-Dennis Plant,Home & Garden,58.42,38
+143,Thompson-Lopez Moisturizer,Beauty,95.18,533
+144,Willis Water Bottle,Sports,26.66,792
+145,Reed-Smith Art,Books,40.73,206
+146,Knox Pasta,Food,12.15,802
+147,"Schmidt, Eye Drops",Health,108.00,237
+148,Sanders First Aid Kit,Health,138.06,368
+149,Griffin Chair,Home & Garden,488.31,88
+150,Brown Running Shoes,Sports,112.41,404
+151,Wilson-Johnson Razor,Beauty,36.44,15
+152,Bautista-Vega Jeans,Clothing,116.67,743
+153,Moore Juice,Food,19.36,986
+154,Duke Golf Club,Sports,185.85,199
+155,Glenn-Francis GPS,Automotive,470.55,267
+156,Mata Science,Books,45.44,572
+157,Snyder-Hill Socks,Clothing,69.44,969
+158,"Clark, Socks",Clothing,191.99,897
+159,Johnson-Combs Juice,Food,14.76,453
+160,Bennett-Walters Razor,Beauty,76.68,249
+161,Hayes Ball,Toys,69.75,918
+162,"Richardson, Vitamins",Health,101.57,264
+163,Lee-Butler Sweater,Clothing,132.23,225
+164,Roman Plant,Home & Garden,217.96,361
+165,"Mathis, Cereal",Food,3.46,852
+166,Brooks Golf Club,Sports,93.31,408
+167,"Turner, Doll",Toys,57.68,182
+168,Weaver-Sanchez Car Cover,Automotive,298.99,915
+169,"Moore, Blood Pressure Monitor",Health,44.73,764
+170,Garner-Anderson Vacuum,Home & Garden,373.81,240
+171,"Vincent, Pillow",Home & Garden,119.25,207
+172,Norris Blender,Home & Garden,190.89,797
+173,"Gonzalez, Jeans",Clothing,185.23,692
+174,Gordon Floor Mat,Automotive,30.13,877
+175,Weiss Coffee,Food,42.86,380
+176,Anderson Massage Oil,Health,103.54,902
+177,"Fisher, Blood Pressure Monitor",Health,103.25,782
+178,Bryant-Mosley Pasta,Food,21.70,768
+179,White-Robinson First Aid Kit,Health,20.29,818
+180,Sharp Sunscreen,Beauty,141.43,33
+181,Hutchinson-Petersen Rice,Food,21.50,702
+182,Turner-Shah Art,Books,78.36,715
+183,Carter Sauce,Food,17.84,8
+184,Rios Headphones,Electronics,789.88,103
+185,Collins-Hammond Remote Car,Toys,63.21,265
+186,Dawson-Hill Travel Guide,Books,28.40,275
+187,Cook Floor Mat,Automotive,290.90,188
+188,Clark GPS,Automotive,188.16,717
+189,Carter Remote Car,Toys,86.16,286
+190,Ward Oil Filter,Automotive,467.84,589
+191,Stephenson Table,Home & Garden,365.99,823
+192,Long Microwave,Home & Garden,227.47,390
+193,Herrera Lamp,Home & Garden,404.02,756
+194,Adams-Mccullough Art,Books,66.40,180
+195,Burns Sunscreen,Beauty,27.09,914
+196,"David, Cereal",Food,36.87,804
+197,"Leblanc, Windshield Wiper",Automotive,219.50,879
+198,Lindsey Vitamins,Health,85.70,707
+199,"Beck, Novel",Books,25.08,260
+200,Schaefer-Archer Tire,Automotive,373.64,342
+201,Smith Dumbbells,Sports,114.49,570
+202,Thomas-Martin Dumbbells,Sports,15.75,124
+203,Villegas-Kramer Yo-yo,Toys,23.90,589
+204,Woodard Chocolate,Food,49.03,291
+205,"Turner, Remote Car",Toys,68.95,499
+206,Davis-Perez Tire,Automotive,320.33,293
+207,Benson-Greene Oil Filter,Automotive,697.90,655
+208,Smith-Mason Stuffed Animal,Toys,64.97,585
+209,Wilson Foundation,Beauty,19.23,351
+210,Anderson-Burns Plant,Home & Garden,172.10,298
+211,"Walker, Water Bottle",Sports,196.95,277
+212,"Mcgee, Car Cover",Automotive,604.62,533
+213,Kelley-Vaughn GPS,Automotive,154.67,874
+214,Jenkins-Fischer Tablet,Electronics,1469.16,677
+215,Gonzalez Football,Sports,71.07,406
+216,Harrison-Whitaker Jeans,Clothing,26.80,899
+217,Diaz Car Charger,Automotive,66.71,789
+218,Mcfarland-Garcia Hair Dryer,Beauty,116.63,85
+219,Johnson-Oliver Shoes,Clothing,129.35,86
+220,"Sullivan, Nail Polish",Beauty,40.57,755
+221,"Reynolds, Bicycle",Sports,191.68,134
+222,"Trujillo, Chocolate",Food,4.34,679
+223,Mcpherson-Taylor Remote Car,Toys,87.10,478
+224,Bush-Johnson Pasta,Food,28.78,138
+225,Cooper-Ho Chocolate,Food,30.77,467
+226,Taylor-Livingston Hand Sanitizer,Health,109.46,654
+227,Bond Pasta,Food,45.72,493
+228,Thomas-Nichols Snacks,Food,40.82,452
+229,Coleman Dumbbells,Sports,129.54,159
+230,"Hernandez, Basketball",Sports,10.03,834
+231,Medina History,Books,30.07,547
+232,"Liu, Keyboard",Electronics,1896.57,488
+233,Rhodes Basketball,Sports,232.10,817
+234,Odom-Brown Water Bottle,Sports,77.05,7
+235,Hill-Willis Rice,Food,11.86,903
+236,"Christensen, Spices",Food,21.55,167
+237,King Moisturizer,Beauty,39.32,81
+238,Williams-Reed Perfume,Beauty,81.36,819
+239,"Clark, Blood Pressure Monitor",Health,64.09,760
+240,Ortiz-Garrett Pasta,Food,22.41,873
+241,Mcclure-Wilson Dress,Clothing,40.28,113
+242,Bates-Stephens Floor Mat,Automotive,375.89,717
+243,Jones-Valdez Face Mask,Health,45.68,19
+244,Castillo-Donovan Novel,Books,77.88,22
+245,"Johnson, Textbook",Books,29.75,128
+246,Ruiz Car Battery,Automotive,205.43,154
+247,Robinson Keyboard,Electronics,473.52,430
+248,Flores-Lopez Bicycle,Sports,299.41,474
+249,"Allen, Camera",Electronics,206.44,768
+250,Perry-Wright Novel,Books,28.66,401
+251,"Foster, Socks",Clothing,101.98,196
+252,"Stevenson, Running Shoes",Sports,250.19,124
+253,Boyd-Allen Tool Set,Home & Garden,390.19,453
+254,Ross-Brown Chair,Home & Garden,115.61,752
+255,"Wright, Socks",Clothing,138.21,213
+256,Thornton GPS,Automotive,553.12,319
+257,Adkins-Irwin Board Game,Toys,64.77,43
+258,Schwartz Cereal,Food,8.74,492
+259,"Kim, Golf Club",Sports,114.52,53
+260,Robinson-Malone Table,Home & Garden,133.26,444
+261,Schneider-Arnold Action Figure,Toys,20.90,282
+262,Rowland Protein Powder,Health,85.20,248
+263,Martinez-Alexander Laptop,Electronics,1183.10,707
+264,Perry-Wolfe Floor Mat,Automotive,145.12,789
+265,Brown-Williams Jacket,Clothing,44.17,93
+266,Fernandez Massage Oil,Health,186.86,777
+267,"Rodriguez, Laptop",Electronics,743.26,157
+268,Smith Tea,Food,8.91,238
+269,Webb Kite,Toys,79.91,774
+270,"Woods, Ball",Toys,74.65,21
+271,Velasquez Face Mask,Beauty,110.86,256
+272,"Delacruz, Keyboard",Electronics,1427.92,572
+273,Smith-Bradley Helmet,Sports,212.14,194
+274,Allen-Johnson First Aid Kit,Health,113.29,331
+275,Smith Windshield Wiper,Automotive,697.44,613
+276,Mitchell-Cardenas Chocolate,Food,6.24,158
+277,Parsons Windshield Wiper,Automotive,660.05,554
+278,"Harris, Ball",Toys,5.07,653
+279,Cooper-Livingston Spices,Food,37.48,904
+280,Johnson-Gonzalez Smartwatch,Electronics,1720.82,794
+281,Ewing-Park Thermometer,Health,70.93,64
+282,Coleman-Hudson Spices,Food,11.92,699
+283,Williams Car Charger,Automotive,144.45,289
+284,Jennings-Mcintosh Stuffed Animal,Toys,65.89,113
+285,"Gilbert, Socks",Clothing,136.89,44
+286,Lee-Blake Cookbook,Books,71.14,206
+287,Murphy Shorts,Clothing,50.45,32
+288,Frey Hand Sanitizer,Health,135.01,538
+289,Hunter Pain Relief,Health,58.63,375
+290,"Tate, Blender",Home & Garden,364.57,13
+291,"Mccoy, Vacuum",Home & Garden,465.63,852
+292,"Snow, Shorts",Clothing,163.19,62
+293,Allen-Austin Kite,Toys,75.63,911
+294,"Ward, Face Mask",Beauty,120.78,59
+295,"Williams, Blood Pressure Monitor",Health,110.51,751
+296,Wallace Shoes,Clothing,29.42,221
+297,"Watts, Tea",Food,7.76,236
+298,"Woods, Spices",Food,11.90,538
+299,Ellison Blender,Home & Garden,320.16,183
+300,Myers-Schmidt Cereal,Food,22.51,108
+301,Griffin-Wright Massage Oil,Health,138.15,719
+302,"Jensen, Foundation",Beauty,31.69,184
+303,"Torres, Spices",Food,26.72,673
+304,"Stone, Travel Guide",Books,79.89,453
+305,Hamilton-Davenport Remote Car,Toys,57.26,332
+306,Larsen-Martin Stuffed Animal,Toys,77.60,440
+307,"Cox, Yo-yo",Toys,27.87,558
+308,Banks-Parker Tool Set,Home & Garden,387.54,948
+309,"Brock, Dumbbells",Sports,288.88,458
+310,Mercado Lipstick,Beauty,111.14,291
+311,White Vitamins,Health,108.35,911
+312,"Ramirez, Basketball",Sports,97.10,227
+313,"Stevens, Plant",Home & Garden,30.42,841
+314,Proctor-Bryant Helmet,Sports,158.27,584
+315,Miller First Aid Kit,Health,27.91,471
+316,"Harmon, Board Game",Toys,18.15,375
+317,"Atkins, Thermometer",Health,54.27,830
+318,Hansen-Hoffman Football,Sports,175.44,582
+319,"Kelley, Table",Home & Garden,367.32,811
+320,"Bruce, Oil Filter",Automotive,403.41,920
+321,"May, Protein Powder",Health,123.09,307
+322,Leach-Wagner Smartwatch,Electronics,794.01,798
+323,Jones Camera,Electronics,728.46,836
+324,Briggs-Wallace Moisturizer,Beauty,140.09,123
+325,Cunningham Blender,Home & Garden,465.75,649
+326,Mccall-Blevins Lipstick,Beauty,51.28,42
+327,"Huerta, Kite",Toys,58.67,334
+328,Owen-Smith Snacks,Food,10.20,689
+329,Kelley Sunscreen,Beauty,114.90,589
+330,Jenkins-Foster Tea,Food,13.44,296
+331,"Roach, Shampoo",Beauty,26.77,84
+332,Hurley Floor Mat,Automotive,602.62,561
+333,"Mendoza, Nail Polish",Beauty,20.08,513
+334,"Love, Shampoo",Beauty,116.21,492
+335,Mann Snacks,Food,25.93,667
+336,"Williams, Thermometer",Health,116.62,753
+337,Bryant Snacks,Food,14.39,272
+338,Wilkerson-Williams Face Mask,Beauty,105.23,589
+339,"Jones, Jeans",Clothing,139.27,433
+340,"Washington, Remote Car",Toys,23.10,352
+341,"Graham, Vitamins",Health,156.24,173
+342,"Perez, Yo-yo",Toys,83.05,822
+343,"Wilson, Floor Mat",Automotive,138.01,45
+344,Glass-Clark Curtains,Home & Garden,348.97,159
+345,Rivera Jeans,Clothing,151.82,248
+346,Brown-Phillips First Aid Kit,Health,175.06,839
+347,"Wilson, Basketball",Sports,109.55,823
+348,Barnett Shoes,Clothing,98.26,23
+349,Doyle-Parker Puzzle,Toys,75.30,216
+350,Castro Microwave,Home & Garden,271.17,264
+351,"Vargas, Sauce",Food,32.28,144
+352,"Grant, Monitor",Electronics,1186.86,679
+353,"Dunn, Coffee",Food,15.01,61
+354,Palmer-Martin Golf Club,Sports,238.86,632
+355,"Hawkins, Basketball",Sports,144.84,967
+356,"Hurst, Smartphone",Electronics,807.86,277
+357,French-Medina Doll,Toys,6.81,888
+358,Cross-Holmes Perfume,Beauty,147.13,520
+359,Thompson Hat,Clothing,104.66,611
+360,Anderson Tea,Food,11.76,512
+361,Sharp-Collins Car Charger,Automotive,742.92,22
+362,Tran-Cisneros Headphones,Electronics,1848.43,312
+363,"Marshall, Ball",Toys,42.37,160
+364,Mckenzie Camera,Electronics,1384.41,363
+365,Scott-Ponce Golf Club,Sports,298.84,513
+366,"Banks, Basketball",Sports,191.48,899
+367,"West, Lipstick",Beauty,142.07,971
+368,"Martinez, Golf Club",Sports,54.00,918
+369,"Carney, Shampoo",Beauty,20.47,391
+370,"Martinez, Juice",Food,44.02,702
+371,Rojas Tool Set,Home & Garden,135.37,156
+372,"Hunt, Nail Polish",Beauty,137.18,337
+373,"Brown, Car Charger",Automotive,127.12,668
+374,"Anderson, Dictionary",Books,47.89,819
+375,White Lamp,Home & Garden,168.32,722
+376,"Gomez, Chocolate",Food,23.21,930
+377,Powell-Hines Dictionary,Books,74.20,325
+378,"Hoffman, Socks",Clothing,113.60,736
+379,"White, Dress",Clothing,73.76,900
+380,"Rogers, Novel",Books,63.58,901
+381,Burke-Ramos Moisturizer,Beauty,51.08,763
+382,"Merritt, Tennis Racket",Sports,235.94,109
+383,Curtis-Haas Cookbook,Books,11.83,626
+384,"Cole, Blood Pressure Monitor",Health,125.06,627
+385,Hardy-Campbell Blender,Home & Garden,131.45,703
+386,Rodriguez-Chambers Camera,Electronics,204.98,798
+387,Thomas-Vincent Oil Filter,Automotive,414.30,619
+388,Romero-Velasquez Car Cover,Automotive,167.58,396
+389,Lewis-Davenport Dash Cam,Automotive,131.57,197
+390,"Mcfarland, Chair",Home & Garden,216.12,992
+391,Smith-Mejia Speaker,Electronics,1902.89,227
+392,Nelson Curtains,Home & Garden,51.75,949
+393,"Murphy, Floor Mat",Automotive,404.71,332
+394,"Weaver, Brake Pad",Automotive,356.36,794
+395,Golden Smartwatch,Electronics,1483.90,389
+396,"Boyle, Stuffed Animal",Toys,63.09,760
+397,Rodriguez-Duncan Pain Relief,Health,111.87,656
+398,"Davis, Mouse",Electronics,263.17,467
+399,"Rivas, Headphones",Electronics,1061.47,405
+400,Oliver-Carroll Mouse,Electronics,805.43,783
+401,"Jackson, Headphones",Electronics,617.80,407
+402,"Ellis, Yoga Mat",Sports,143.79,432
+403,Dalton Water Bottle,Sports,276.52,706
+404,"Jennings, Chocolate",Food,24.79,661
+405,Montoya Tire,Automotive,585.05,115
+406,Williams Dictionary,Books,75.65,712
+407,Morse-Lyons Chocolate,Food,21.47,331
+408,Perry-Hooper Car Battery,Automotive,163.63,604
+409,Beck-Garcia Vacuum,Home & Garden,63.29,331
+410,"Brooks, Textbook",Books,16.38,723
+411,"Ryan, Car Cover",Automotive,91.11,724
+412,Paul Hair Dryer,Beauty,94.91,163
+413,Peterson-Nguyen Hair Dryer,Beauty,62.05,786
+414,"Reynolds, History",Books,49.58,675
+415,Wilson-Johnson Cookbook,Books,70.82,183
+416,"Ho, Monitor",Electronics,650.72,747
+417,Weaver Windshield Wiper,Automotive,510.50,120
+418,"Madden, Biography",Books,10.25,783
+419,Boyd Basketball,Sports,143.01,875
+420,Prince Car Charger,Automotive,650.78,622
+421,Becker Brake Pad,Automotive,193.08,675
+422,"Torres, Dash Cam",Automotive,342.87,81
+423,Figueroa-Burns Pain Relief,Health,11.25,903
+424,Baker-Smith Pasta,Food,32.13,570
+425,Harris-Parsons Chair,Home & Garden,108.72,56
+426,"Wagner, Action Figure",Toys,18.81,33
+427,Watts Pain Relief,Health,66.70,942
+428,"Christensen, T-Shirt",Clothing,35.14,182
+429,Hanson-Duran Self-Help,Books,52.78,708
+430,"Newman, Pain Relief",Health,159.59,181
+431,"Garcia, Floor Mat",Automotive,304.15,36
+432,Hall Shoes,Clothing,74.72,919
+433,Rocha Foundation,Beauty,115.70,863
+434,"Cardenas, Tea",Food,16.76,137
+435,Parker Shoes,Clothing,75.90,423
+436,Waters Snacks,Food,35.70,626
+437,Hickman Smartphone,Electronics,1164.17,644
+438,"Graham, Tea",Food,25.73,705
+439,Ruiz Blood Pressure Monitor,Health,91.14,868
+440,Cline Building Blocks,Toys,54.91,638
+441,Johnson-Walter Board Game,Toys,63.36,508
+442,Weber Sauce,Food,26.15,184
+443,Nichols-Blair Thermometer,Health,144.63,198
+444,Riley Smartphone,Electronics,96.77,640
+445,"Allen, Jacket",Clothing,162.92,424
+446,Cervantes Lipstick,Beauty,55.40,573
+447,Evans Chair,Home & Garden,327.50,706
+448,Griffith Yoga Mat,Sports,239.16,315
+449,Castillo-Bowen Helmet,Sports,169.50,785
+450,Franklin-Jones Smartphone,Electronics,1387.38,349
+451,"Jones, Razor",Beauty,95.47,29
+452,Smith Biography,Books,33.14,346
+453,"Johnson, Dash Cam",Automotive,642.87,661
+454,Wilson Art,Books,20.88,471
+455,Brown Rice,Food,24.74,833
+456,Duncan Lipstick,Beauty,126.59,306
+457,Miller Massage Oil,Health,115.48,19
+458,Morgan Blender,Home & Garden,349.04,818
+459,Stevens Doll,Toys,97.11,287
+460,Jackson Camera,Electronics,1968.06,641
+461,"Mccarty, Chocolate",Food,29.84,398
+462,Jones Dictionary,Books,18.18,801
+463,Davis-White Dumbbells,Sports,215.85,278
+464,Fox Foundation,Beauty,78.58,243
+465,"Walker, Ball",Toys,83.80,309
+466,Hoffman Microwave,Home & Garden,165.11,114
+467,Jones Action Figure,Toys,78.89,935
+468,"Carroll, Shorts",Clothing,108.61,818
+469,"Jenkins, Car Charger",Automotive,144.41,348
+470,Pittman-Ingram Car Charger,Automotive,265.53,335
+471,Rivas Textbook,Books,67.55,960
+472,Gonzalez-Taylor Chocolate,Food,12.64,37
+473,Todd GPS,Automotive,578.10,534
+474,Wood T-Shirt,Clothing,72.53,45
+475,Adams Protein Powder,Health,73.33,910
+476,Anderson-Lane Smartphone,Electronics,1065.13,674
+477,"Johnson, Basketball",Sports,177.49,319
+478,"Williams, Plant",Home & Garden,116.27,293
+479,"Powell, Helmet",Sports,102.55,451
+480,"Zamora, Shoes",Clothing,42.62,280
+481,"Jones, T-Shirt",Clothing,192.29,573
+482,Neal Tea,Food,12.71,358
+483,Brown-Torres Rice,Food,15.74,965
+484,Ward Water Bottle,Sports,81.00,72
+485,Lopez-Price Water Bottle,Sports,268.75,553
+486,"Franklin, Car Battery",Automotive,125.81,482
+487,Adams Smartphone,Electronics,798.02,88
+488,Baxter-Marshall Moisturizer,Beauty,33.42,610
+489,Martin Face Mask,Health,127.10,319
+490,Yu-Riggs Puzzle,Toys,72.73,686
+491,Mason-Buchanan Tea,Food,48.76,773
+492,Anderson-Dean Floor Mat,Automotive,127.14,832
+493,Taylor-Jones Tire,Automotive,378.08,700
+494,"Evans, Dash Cam",Automotive,204.56,229
+495,"Williams, Dictionary",Books,28.06,372
+496,"Russell, Shampoo",Beauty,107.35,681
+497,Smith-Craig Remote Car,Toys,48.06,30
+498,Larson Shorts,Clothing,35.88,490
+499,Palmer-Shea Oil Filter,Automotive,243.75,356
+500,"Fernandez, Pain Relief",Health,34.20,105

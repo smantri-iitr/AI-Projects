@@ -1,0 +1,7 @@
+duckdb
+duckdb-engine
+langchain
+langchain_community
+langchain_anthropic
+sqlalchemy
+streamlit
