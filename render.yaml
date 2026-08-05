@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: topnnews
+    runtime: docker
+    plan: free
+    region: singapore
+    rootDir: topNnews
+    dockerfilePath: ./Dockerfile
+    # /api/topics is served from memory, so the health check costs no upstream fetch.
+    healthCheckPath: /api/topics
+    autoDeployTrigger: commit
