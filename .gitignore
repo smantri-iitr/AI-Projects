@@ -1,0 +1,38 @@
+# Secrets — never commit these
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+service_account*.json
+secrets.yaml
+secrets.yml
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Editors
+.vscode/
+.idea/
+
+# Model artifacts / large local outputs
+*.h5
+*.ckpt
+*.pt
+*.pth
